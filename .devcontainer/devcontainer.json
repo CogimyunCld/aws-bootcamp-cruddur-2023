@@ -15,7 +15,8 @@
 				"ms-azuretools.vscode-docker",
 				"ckolkman.vscode-postgres",
 				"ms-python.python",
-				"xabikos.JavaScriptSnippets"
+				"xabikos.JavaScriptSnippets",
+				"42Crunch.vscode-openapi"
 			]
 		}
 	}
